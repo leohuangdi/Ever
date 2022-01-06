@@ -810,7 +810,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sFF0ciwnEL .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 6.2rem);
+    max-height: calc(98.5vh - 4.6rem);
   }
 }
 .cid-sFF0ciwnEL .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1031,8 +1031,8 @@ a {
   }
 }
 .cid-sTx35plLEm {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
   background-image: url("../../../assets/images/build1-1702x902.jpg");
 }
 .cid-sTx35plLEm .image-wrap img {
@@ -1042,7 +1042,7 @@ a {
   .cid-sTx35plLEm .image-wrap img {
     display: block;
     margin: auto;
-    width: 30%;
+    width: 40%;
   }
 }
 .cid-sTxbYdQqv3 {
@@ -3041,8 +3041,8 @@ a {
   }
 }
 .cid-sFzFvgBfc0 {
-  padding-top: 6rem;
-  padding-bottom: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 0rem;
   background-color: #fafafa;
 }
 .cid-sFzFvgBfc0 img,
@@ -3098,8 +3098,8 @@ a {
   text-align: left;
 }
 .cid-sFzErVWEaH {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
   background: #ffffff;
 }
 .cid-sFzErVWEaH .team-card {
