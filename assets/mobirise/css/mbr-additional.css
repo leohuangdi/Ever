@@ -4021,44 +4021,65 @@ a {
 .cid-sTOI1n22Zl {
   padding-top: 3rem;
   padding-bottom: 0rem;
-  background-color: #390b0b;
+  background-color: #fafafa;
 }
 .cid-sTOI1n22Zl .mbr-section-title {
+  color: #232323;
+}
+.cid-sU6iAhZU3C {
+  padding-top: 1rem;
+  padding-bottom: 6rem;
+  background-color: #fafafa;
+}
+.cid-sU6iAhZU3C .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-sU6iAhZU3C .card-wrapper {
+  background-color: #ffffff;
+  border-radius: 4px;
+}
+.cid-sU6iAhZU3C .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-sU6iAhZU3C .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin-right: 0.6rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 2px solid #6592e6;
+  transition: all 0.3s;
+}
+.cid-sU6iAhZU3C .social-row .soc-item .mbr-iconfont {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  color: #6592e6;
+  font-size: 1.5rem;
+  transition: all 0.3s;
+}
+.cid-sU6iAhZU3C .social-row .soc-item:hover {
+  background-color: #6592e6;
+}
+.cid-sU6iAhZU3C .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;
 }
-.cid-sTOlgbDqEo {
-  padding-top: 1rem;
-  padding-bottom: 3rem;
-  background-color: #390b0b;
-}
-.cid-sTOlgbDqEo .img-wrapper {
-  text-align: center;
-}
-.cid-sTOlgbDqEo img {
-  margin: auto;
-  width: 140px;
-  padding-bottom: 2rem;
-}
-.cid-sTOlgbDqEo .row {
-  align-items: flex-start;
-}
-.cid-sTOlgbDqEo .card-wrapper {
-  border-radius: 4px;
-  background: #eae7dc;
-}
-@media (max-width: 992px) {
-  .cid-sTOlgbDqEo .card-wrapper {
-    margin-bottom: 2rem;
+@media (max-width: 767px) {
+  .cid-sU6iAhZU3C .card-box {
+    padding: 1rem;
   }
 }
 @media (min-width: 768px) {
-  .cid-sTOlgbDqEo .card-wrapper {
-    padding: 2rem;
+  .cid-sU6iAhZU3C .card-box {
+    padding-right: 2rem;
   }
 }
-@media (max-width: 767px) {
-  .cid-sTOlgbDqEo .card-wrapper {
-    padding: 1rem;
+@media (min-width: 992px) {
+  .cid-sU6iAhZU3C .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
   }
 }
 .cid-sTOC7UMxox {
